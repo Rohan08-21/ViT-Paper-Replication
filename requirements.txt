@@ -1,0 +1,8 @@
+torchinfo==1.8.0
+matplotlib==3.11.0
+numpy==2.5.2
+pandas==3.0.5
+pillow==12.3.0
+requests==2.34.2
+tqdm==4.70.1
+jupyterlab==4.5.9
